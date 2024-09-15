@@ -21,7 +21,7 @@ const Footer = () => {
   },
     {
         title:'Contact',
-        path: '/Contact',
+        path: '/contact',
     },
 
 ];
